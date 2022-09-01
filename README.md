@@ -17,9 +17,9 @@ This notebook requires a Python 3.6 or newer version.
 
 To run this notebook you must have installed the following libraries:
 
-pip install pandas
-pip install matplotlib
-pip install seaborn
-pip install nltk
-pip install python-docx
-pip install text2emotion
+- pip install pandas
+- pip install matplotlib
+- pip install seaborn
+- pip install nltk
+- pip install python-docx
+- pip install text2emotion
